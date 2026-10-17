@@ -4,8 +4,7 @@
 <a href="https://github.com/Mrabdullaalleon">
   <img src="https://i.postimg.cc/KjKZN2yP/0000.jpg" alt="Abdulla Al Leon Banner" width="100%" />
 </a>
-
-<br/><br/>
+<br/>
 
 <!-- ================= CIRCULAR PROFILE PHOTO WITH VECTOR BORDER ================= -->
 <svg width="170" height="170" viewBox="0 0 170 170" fill="none" xmlns="http://www.w3.org/2000/svg">
