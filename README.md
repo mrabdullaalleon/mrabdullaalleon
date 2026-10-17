@@ -7,7 +7,7 @@
 
 <br/>
 
-<!-- ================= PROFILE PICTURE (CIRCULAR, ELEGANT) ================= -->
+<!-- ================= PROFILE PICTURE ================= -->
 <a href="https://github.com/Mrabdullaalleon">
   <img src="https://i.postimg.cc/T2r9QWCQ/Abdulla-Al-Leon.jpg" alt="Abdulla Al Leon" width="170" height="170" />
 </a>
@@ -154,7 +154,7 @@ My goal is to build impactful software solutions and grow as a professional **So
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrabdullaalleon&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrabdullaalleon&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -171,6 +171,60 @@ My goal is to build impactful software solutions and grow as a professional **So
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mrabdullaalleon&theme=github_dark" alt="Repos per Language" width="32%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mrabdullaalleon&theme=github_dark" alt="Most Commit Language" width="32%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mrabdullaalleon&theme=github_dark&utcOffset=6" alt="Productive Time" width="32%" />
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/mdi:calendar-month-outline.svg?color=%232F81F7" width="24" height="24" align="top"/> Contribution Calendar (3D)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mrabdullaalleon/Mrabdullaalleon/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%" />
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/mdi:clock-outline.svg?color=%232F81F7" width="24" height="24" align="top"/> Coding Activity (WakaTime)
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api/wakatime?username=Mrabdullaalleon&theme=github_dark&hide_border=true&layout=compact" alt="WakaTime Stats" width="60%" />
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/mdi:music-note-outline.svg?color=%232F81F7" width="24" height="24" align="top"/> Now Playing on Spotify
+
+<div align="center">
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=Mrabdullaalleon&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=2F81F7&bar_color_cover=true" alt="Spotify Now Playing" width="70%" />
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/mdi:youtube.svg?color=%232F81F7" width="24" height="24" align="top"/> Latest YouTube Video
+
+<div align="center">
+
+<img src="https://github-readme-youtube-cards.vercel.app/api/videos?channel_id=UCxxxxxxxxxxxxxxxxxxxxxx&theme=dark" alt="Latest YouTube Videos" width="100%" />
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/mdi:rss.svg?color=%232F81F7" width="24" height="24" align="top"/> Latest Blog Posts
+
+<div align="center">
+
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@Mrabdullaalleon/0" alt="Latest Medium Article" width="60%" />
+
+<br/>
+
+<img src="https://github-readme-devto.vercel.app/api?username=Mrabdullaalleon&theme=dark&hide_border=true" alt="Latest Dev.to Posts" width="100%" />
 
 </div>
 
@@ -215,7 +269,7 @@ My goal is to build impactful software solutions and grow as a professional **So
 
 ### <img src="https://api.iconify.design/mdi:counter.svg?color=%232F81F7" width="22" height="22" align="top"/> Profile Visitors
 
-<img src="https://komarev.com/ghpvc/?username=Mrabdullaalleon&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile Views" />
+<img src="https://hits.sh/github.com/Mrabdullaalleon.svg?style=for-the-badge&label=Profile%20Views&color=2F81F7" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Mrabdullaalleon?label=Followers&style=for-the-badge&color=2EA043&logo=github" alt="Followers" />
 <img src="https://img.shields.io/github/stars/Mrabdullaalleon?label=Stars&style=for-the-badge&color=EAB308&logo=github" alt="Stars" />
 
