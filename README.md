@@ -7,12 +7,12 @@
 
 <br/>
 
-<!-- ================= PROFILE PICTURE ================= -->
+<!-- ================= PROFILE PICTURE (CIRCULAR, ELEGANT) ================= -->
 <a href="https://github.com/Mrabdullaalleon">
-  <img src="https://i.postimg.cc/T2r9QWCQ/Abdulla-Al-Leon.jpg" alt="Abdulla Al Leon" width="180" height="180" />
+  <img src="https://i.postimg.cc/T2r9QWCQ/Abdulla-Al-Leon.jpg" alt="Abdulla Al Leon" width="170" height="170" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- ================= NAME + TITLE ================= -->
 <h1>Abdulla Al Leon</h1>
@@ -112,14 +112,14 @@ My goal is to build impactful software solutions and grow as a professional **So
 
 <div align="center">
 
-### Frontend
+<h3>Frontend</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,nextjs" alt="Frontend Stack" />
 
-### Backend &amp; Database
+<h3>Backend &amp; Database</h3>
 <img src="https://skillicons.dev/icons?i=php,nodejs,python,c,mysql,sqlite,mongodb" alt="Backend Stack" />
 
-### Tools &amp; Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,vercel,gcp,adobephotoshop,adobeillustrator,adobexd,adobelightroom" alt="Tools Stack" />
+<h3>Tools &amp; Platforms</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,vercel,gcp,ps,ai,xd,lr" alt="Tools Stack" />
 
 </div>
 
@@ -130,43 +130,37 @@ My goal is to build impactful software solutions and grow as a professional **So
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=Mrabdullaalleon&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrabdullaalleon&theme=github-dark-blue&hide_border=true" alt="Streak Stats" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Mrabdullaalleon&theme=github-dark-blue&hide_border=true" alt="Streak Stats" width="49%" />
 
 <br/>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mrabdullaalleon&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="60%" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mrabdullaalleon&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%" />
-
 </div>
 
 ---
 
-## <img src="https://api.iconify.design/mdi:chart-timeline-variant.svg?color=%232F81F7" width="24" height="24" align="top"/> Contribution Graph
+## <img src="https://api.iconify.design/mdi:trophy-outline.svg?color=%232F81F7" width="24" height="24" align="top"/> GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrabdullaalleon&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+<img src="https://github-trophies.vercel.app/?username=Mrabdullaalleon&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%" />
 
 </div>
 
 ---
 
-## <img src="https://api.iconify.design/mdi:snake.svg?color=%232F81F7" width="24" height="24" align="top"/> Contribution Snake
+## <img src="https://api.iconify.design/mdi:chart-timeline-variant.svg?color=%232F81F7" width="24" height="24" align="top"/> Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mrabdullaalleon/Mrabdullaalleon/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrabdullaalleon&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF" alt="Activity Graph" width="100%" />
 
 </div>
 
-> **Snake অ্যানিমেশন চালু করতে:** `Mrabdullaalleon/Mrabdullaalleon` রিপোতে `.github/workflows/snake.yml` ফাইল যোগ করে `Platane/snk` অ্যাকশন সেটআপ করুন। এটি ছাড়া ছবিটি দেখাবে না (ভাঙা লিংক)। চাইলে এই সেকশন বাদও দিতে পারেন।
-
 ---
 
-## <img src="https://api.iconify.design/mdi:star-four-points-outline.svg?color=%232F81F7" width="24" height="24" align="top"/> GitHub Profile Summary
+## <img src="https://api.iconify.design/mdi:star-four-points-outline.svg?color=%232F81F7" width="24" height="24" align="top"/> Profile Summary
 
 <div align="center">
 
@@ -207,17 +201,23 @@ My goal is to build impactful software solutions and grow as a professional **So
 
 ---
 
+## <img src="https://api.iconify.design/mdi:quote-closed-outline.svg?color=%232F81F7" width="24" height="24" align="top"/> Developer Quote
+
 <div align="center">
 
-### <img src="https://api.iconify.design/mdi:quote-closed-outline.svg?color=%232F81F7" width="22" height="22" align="top"/> Developer Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="80%" />
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</div>
 
-<br/><br/>
+---
 
-<img src="https://komarev.com/ghpvc/?username=Mrabdullaalleon&label=Profile%20Views&color=2F81F7&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Mrabdullaalleon?label=Followers&style=flat-square&color=2EA043" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Mrabdullaalleon?label=Stars&style=flat-square&color=EAB308" alt="Stars" />
+<div align="center">
+
+### <img src="https://api.iconify.design/mdi:counter.svg?color=%232F81F7" width="22" height="22" align="top"/> Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=Mrabdullaalleon&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Mrabdullaalleon?label=Followers&style=for-the-badge&color=2EA043&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Mrabdullaalleon?label=Stars&style=for-the-badge&color=EAB308&logo=github" alt="Stars" />
 
 <br/><br/>
 
