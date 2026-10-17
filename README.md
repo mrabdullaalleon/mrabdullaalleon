@@ -1,160 +1,230 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,35&height=220&section=header&text=Abdulla%20Al%20Leon&fontSize=42&fontAlignY=38&desc=Full-Stack%20Software%20Developer%20%7C%20CSE%20Student%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
-</div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://komarev.com/ghpvc/?username=Mrabdullaalleon&style=flat-square&color=007ec6&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-</div>
+<!-- ================= BANNER ================= -->
+<a href="https://github.com/Mrabdullaalleon">
+  <img src="https://i.postimg.cc/KjKZN2yP/0000.jpg" alt="Abdulla Al Leon Banner" width="100%" />
+</a>
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="22" height="22" valign="middle"/> Summary & Background
+<!-- ================= PROFILE PICTURE ================= -->
+<a href="https://github.com/Mrabdullaalleon">
+  <img src="https://i.postimg.cc/T2r9QWCQ/Abdulla-Al-Leon.jpg" alt="Abdulla Al Leon" width="180" height="180" />
+</a>
 
-I am a Computer Science & Engineering student and Full-Stack Developer based in Bangladesh. I specialize in designing and engineering scalable, secure, and user-centric web applications. Currently focused on advancing my expertise across full-stack architectures, modern JavaScript ecosystems, database optimization, and Artificial Intelligence integrations.
+<br/><br/>
 
-- **Current Focus:** Full-Stack Architecture, RESTful APIs, and Intelligent Web Applications.
-- **Academic Background:** B.Sc. in Computer Science & Engineering (CSE).
-- **Core Competencies:** Clean Code, Responsive Design, Database Architecture & UI/UX Standards.
+<!-- ================= NAME + TITLE ================= -->
+<h1>Abdulla Al Leon</h1>
+<h3>Computer Science &amp; Engineering Student &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; AI Enthusiast</h3>
 
-<br/>
+<!-- ================= TYPING SVG ================= -->
+<a href="https://github.com/Mrabdullaalleon">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;HTML5+%7C+CSS3+%7C+JavaScript+%7C+PHP;MySQL+%7C+SQLite+%7C+MongoDB;UI%2FUX+Enthusiast+%26+AI+Learner;Building+Modern%2C+Secure+Web+Applications" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- ================= QUICK BADGES ================= -->
+<img src="https://img.shields.io/badge/Location-Bangladesh-006A4E?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-1F6FEB?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Role" />
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Software%20Engineering-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="Focus" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-2EA043?style=flat-square&logo=github&logoColor=white" alt="Status" />
+
+</div>
 
 ---
 
-### <img src="https://cdn.simpleicons.org/minutemailer/007ACC" width="22" height="22" valign="middle"/> Connect With Me
+## <img src="https://api.iconify.design/mdi:account-circle-outline.svg?color=%232F81F7" width="24" height="24" align="top"/> About Me
 
-<div align="left">
-  <a href="https://linkedin.com/in/Mrabdullaalleon" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:Mrabdullaalleon@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://x.com/Mrabdullaalleon" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://facebook.com/Mrabdullaalleon" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/Mrabdullaalleon" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://discord.gg/Mrabdullaalleon" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://youtube.com/@Mrabdullaalleon" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://reddit.com/user/Mrabdullaalleon" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
-  </a>
-  <a href="https://quora.com/profile/Mrabdullaalleon" target="_blank">
-    <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora"/>
-  </a>
-  <a href="https://pinterest.com/Mrabdullaalleon" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
-  </a>
-  <a href="https://tiktok.com/@Mrabdullaalleon" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
-  <a href="https://twitch.tv/Mrabdullaalleon" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
-  </a>
-</div>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<br/>
+I am a **Computer Science & Engineering** student and **Full-Stack Developer** from **Bangladesh**, passionate about building modern, responsive, secure, and user-friendly web applications.
+
+I work with **HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, PHP, MySQL, and SQLite**. I am continuously improving my skills in **software development, UI/UX design, and AI technologies** while working on real-world projects.
+
+My goal is to build impactful software solutions and grow as a professional **Software Engineer & AI Developer**.
+
+- &nbsp;<img src="https://api.iconify.design/mdi:check-decagram.svg?color=%232EA043" width="16" height="16" align="top"/> Currently working on **Full-Stack Web Projects**
+- &nbsp;<img src="https://api.iconify.design/mdi:book-open-variant.svg?color=%232F81F7" width="16" height="16" align="top"/> Learning **AI, Next.js &amp; Node.js**
+- &nbsp;<img src="https://api.iconify.design/mdi:handshake-outline.svg?color=%23EAB308" width="16" height="16" align="top"/> Open to **collaboration** on web &amp; AI projects
+- &nbsp;<img src="https://api.iconify.design/mdi:email-outline.svg?color=%23D14836" width="16" height="16" align="top"/> Reach me at **Mrabdullaalleon@gmail.com**
+
+</td>
+<td width="40%" valign="top">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Mrabdullaalleon&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-### <img src="https://cdn.simpleicons.org/codersrank/007ACC" width="22" height="22" valign="middle"/> Technical Stack
+## <img src="https://api.iconify.design/mdi:web.svg?color=%232F81F7" width="24" height="24" align="top"/> Connect With Me
 
-#### Languages & Core Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+<div align="center">
 
-#### Frameworks, Libraries & Environments
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-</p>
+<a href="https://linkedin.com/in/Mrabdullaalleon" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://facebook.com/Mrabdullaalleon" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://instagram.com/Mrabdullaalleon" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://x.com/Mrabdullaalleon" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="https://discord.gg/Mrabdullaalleon" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://reddit.com/user/Mrabdullaalleon" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+</a>
+<a href="https://quora.com/profile/Mrabdullaalleon" target="_blank">
+  <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" />
+</a>
+<a href="https://pinterest.com/Mrabdullaalleon" target="_blank">
+  <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
+</a>
+<a href="https://tiktok.com/@Mrabdullaalleon" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+</a>
+<a href="https://twitch.tv/Mrabdullaalleon" target="_blank">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+</a>
+<a href="https://youtube.com/@Mrabdullaalleon" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="mailto:Mrabdullaalleon@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
-#### Databases & Storage
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-#### Cloud, Hosting & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-#### UI/UX & Creative Suite
-<p align="left">
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6" alt="Adobe XD" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Lightroom" />
-  <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366" alt="InDesign" />
-</p>
-
-<br/>
+</div>
 
 ---
 
-### <img src="https://cdn.simpleicons.org/trophy/FFD700" width="22" height="22" valign="middle"/> GitHub Achievements
+## <img src="https://api.iconify.design/mdi:code-tags.svg?color=%232F81F7" width="24" height="24" align="top"/> Tech Stack
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mrabdullaalleon&theme=darkhub&no-frame=false&no-bg=true&margin-w=6" alt="GitHub Trophies" />
-</div>
 
-<br/>
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,nextjs" alt="Frontend Stack" />
+
+### Backend &amp; Database
+<img src="https://skillicons.dev/icons?i=php,nodejs,python,c,mysql,sqlite,mongodb" alt="Backend Stack" />
+
+### Tools &amp; Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,vercel,gcp,adobephotoshop,adobeillustrator,adobexd,adobelightroom" alt="Tools Stack" />
+
+</div>
 
 ---
 
-### <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="22" height="22" valign="middle"/> Performance & Activity Metrics
+## <img src="https://api.iconify.design/mdi:chart-box-outline.svg?color=%232F81F7" width="24" height="24" align="top"/> GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Mrabdullaalleon&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" width="400"/>
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=Mrabdullaalleon&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="400"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrabdullaalleon&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages" width="400"/>
-      </td>
-    </tr>
-  </table>
-</div>
+
+<img src="https://github-readme-stats.shion.dev/api?username=Mrabdullaalleon&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrabdullaalleon&theme=github-dark-blue&hide_border=true" alt="Streak Stats" width="49%" />
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrabdullaalleon&theme=tokyo-night&hide_border=false&area=true" alt="Activity Graph" width="100%"/>
-</div>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mrabdullaalleon&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="60%" />
 
 <br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Mrabdullaalleon&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%" />
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/mdi:chart-timeline-variant.svg?color=%232F81F7" width="24" height="24" align="top"/> Contribution Graph
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,35&height=100&section=footer" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrabdullaalleon&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/mdi:snake.svg?color=%232F81F7" width="24" height="24" align="top"/> Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mrabdullaalleon/Mrabdullaalleon/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+
+</div>
+
+> **Snake অ্যানিমেশন চালু করতে:** `Mrabdullaalleon/Mrabdullaalleon` রিপোতে `.github/workflows/snake.yml` ফাইল যোগ করে `Platane/snk` অ্যাকশন সেটআপ করুন। এটি ছাড়া ছবিটি দেখাবে না (ভাঙা লিংক)। চাইলে এই সেকশন বাদও দিতে পারেন।
+
+---
+
+## <img src="https://api.iconify.design/mdi:star-four-points-outline.svg?color=%232F81F7" width="24" height="24" align="top"/> GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mrabdullaalleon&theme=github_dark" alt="Profile Details" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mrabdullaalleon&theme=github_dark" alt="Repos per Language" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mrabdullaalleon&theme=github_dark" alt="Most Commit Language" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mrabdullaalleon&theme=github_dark&utcOffset=6" alt="Productive Time" width="32%" />
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/mdi:rocket-launch-outline.svg?color=%232F81F7" width="24" height="24" align="top"/> What I'm Currently Doing
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**<img src="https://api.iconify.design/mdi:laptop.svg?color=%232F81F7" width="18" height="18" align="top"/> Building**
+- Full-Stack Web Applications
+- Responsive UI with Tailwind &amp; Bootstrap
+- Secure PHP + MySQL backends
+
+</td>
+<td width="50%" valign="top">
+
+**<img src="https://api.iconify.design/mdi:school-outline.svg?color=%232EA043" width="18" height="18" align="top"/> Learning**
+- AI &amp; Machine Learning fundamentals
+- Next.js &amp; Node.js ecosystem
+- Advanced UI/UX principles
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### <img src="https://api.iconify.design/mdi:quote-closed-outline.svg?color=%232F81F7" width="22" height="22" align="top"/> Developer Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Mrabdullaalleon&label=Profile%20Views&color=2F81F7&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Mrabdullaalleon?label=Followers&style=flat-square&color=2EA043" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Mrabdullaalleon?label=Stars&style=flat-square&color=EAB308" alt="Stars" />
+
+<br/><br/>
+
+<em>Thank you for visiting my profile. Let's build something impactful together.</em>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:7C3AED&height=100&section=footer" alt="Footer Wave" width="100%" />
+
 </div>
