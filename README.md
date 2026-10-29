@@ -2,7 +2,7 @@
 
 <!-- ================= TOP BANNER ================= -->
 <a href="https://github.com/mrabdullaalleon">
-  <img src="https://i.postimg.cc/KjKZN2yP/0000.jpg" alt="Abdulla Al Leon Banner" width="100%" />
+  <img src="" alt="Abdulla Al Leon Banner" width="100%" />
 </a>
 <br/>
 
