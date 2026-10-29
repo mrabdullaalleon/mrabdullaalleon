@@ -2,7 +2,7 @@
 
 <!-- ================= TOP BANNER ================= -->
 <a href="https://github.com/mrabdullaalleon">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir_1ICelTELRA80XfXdj116feZmYiA_DKVA9NVjGY1OXUvlTel1aYbcFdCG0tzWmpf7uT7Nl5iqIfPlVkmFlmYp7Gg8VicCkqgDvQehYQ-uU7LuQowDepqLstOGb2J1pVlVv0vBZZmkUfvK-1IkZt0ri-O9SHang5tccrdr48mBWzWVlDiyokpPAoonstU/s320/0000.jpg" alt="Abdulla Al Leon Banner" width="100%" />
+  <img src="https://i.postimg.cc/KjKZN2yP/0000.jpg" alt="Abdulla Al Leon Banner" width="100%" />
 </a>
 <br/>
 
